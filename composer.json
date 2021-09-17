@@ -1,0 +1,15 @@
+{
+    "name": "rsl/phpmvc-framework",
+    "authors": [
+        {
+            "name": "chavindu weerakoon",
+            "email": "chavinduweerakoon@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
